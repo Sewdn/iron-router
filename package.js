@@ -11,6 +11,7 @@ Package.on_use(function (api) {
   ], ['client', 'server']);
 
   api.use([
+    'HTML5-History-API',
     'templating',
     'handlebars',
     'universal-events'

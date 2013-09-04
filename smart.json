@@ -6,6 +6,8 @@
   "version": "0.5.4",
   "git": "https://github.com/EventedMind/iron-router.git",
   "packages": {
-      "git": "https://github.com/tmeasday/meteor-HTML5-History-API"
+      "HTML5-History-API": {
+         "git": "https://github.com/tmeasday/meteor-HTML5-History-API"
+      }
   }
 }
